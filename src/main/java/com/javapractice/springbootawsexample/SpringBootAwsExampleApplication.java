@@ -14,6 +14,7 @@ public class SpringBootAwsExampleApplication {
 	public String sayHello()
 	{
 		return "welcome to aws";
+		return "hello";
 	}
 
 	public static void main(String[] args) {
